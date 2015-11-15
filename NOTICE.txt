@@ -20,3 +20,8 @@ src/test/resources/CSVFileParser/testCSV85.csv
 src/test/resources/CSVFileParser/testCSV85_default.txt
 src/test/resources/CSVFileParser/testCSV85_ignoreEmpty.txt
 These files are used as test data and test result specifications.
+
+
+src/test/resources/CSVFileParser/bom.csv
+
+src/test/resources/CSVFileParser/bom.csv
